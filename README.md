@@ -4,9 +4,12 @@
 
 ## 📸 演示截图
 
-![CursorAgent 运行演示](images/demo.png)
+![CursorAgent 运行演示 1](images/screenshot-1772695871611.png)
+
+![CursorAgent 运行演示 2](images/screenshot-1772696017612.png)
 
 *CursorAgent 智能交互界面*
+
 
 ## ✨ 功能特点
 
