@@ -2,6 +2,12 @@
 
 一个类似 Cursor 的高级终端智能体，基于 OpenAI API 实现的智能代码助手。
 
+## 📸 演示截图
+
+![CursorAgent 运行演示](images/demo.png)
+
+*CursorAgent 智能交互界面*
+
 ## ✨ 功能特点
 
 - 🔍 **全局代码搜索** - 按关键字搜索项目中的代码片段
