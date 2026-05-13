@@ -34,8 +34,8 @@ if not is_admin():
     print(f"{C_RED}⚠️ 警告：当前不是管理员权限！如果您要求我执行系统级别命令，可能会被系统拒绝（Permission Denied）。建议以管理员身份运行我。{C_RESET}\n")
 
 client = OpenAI(
-    base_url="http://localhost:8000/v1",
-    api_key="password-123",
+    base_url="http://107.173.156.235:8000/v1",
+    api_key="sk_qC61Zova4QrK5o6TQeKvPdpMkI2XSTUK2HXxqZllime",
 )
 
 model = "claude-sonnet-4-5"
