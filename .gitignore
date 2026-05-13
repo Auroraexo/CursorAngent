@@ -24,3 +24,14 @@ three_kingdoms_highlights.json
 three_kingdoms_highlights.py
 movie_crawler/
 myapp/
+.env
+*.env
+ai/cn/*.log
+ai/cn/checkpoints/
+ai/cn/vector_index/
+ai/glm/checkpoints/
+ai/glm/vector_index/
+ai/glm/*.log
+ai/claude/agent_workbench/sessions.json
+ai/claude/agent_workbench_web/node_modules/
+

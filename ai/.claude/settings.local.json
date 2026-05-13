@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(rm -f \"ai/claude/test_agent/无标题.py\")",
+      "Bash(rm -rf \"ai/claude/agent_workbench_web\")",
+      "Bash(python -m py_compile \"g:/work_file/work/OpenAi/ai/claude/python/CursorAgent.py\" \"g:/work_file/work/OpenAi/ai/glm/chatagent.py\" \"g:/work_file/work/OpenAi/ai/claude/test_agent/FileAssistant.py\" \"g:/work_file/work/OpenAi/ai/claude/test_agent/ChatCompletion.py\" \"g:/work_file/work/OpenAi/ai/claude/test_agent/Completion.py\" \"g:/work_file/work/OpenAi/ai/claude/test_agent/cc.py\" \"g:/work_file/work/OpenAi/ai/glm/test.py\")",
+      "Bash(py -3 -m py_compile \"g:/work_file/work/OpenAi/ai/claude/python/CursorAgent.py\" \"g:/work_file/work/OpenAi/ai/glm/chatagent.py\" \"g:/work_file/work/OpenAi/ai/claude/test_agent/FileAssistant.py\" \"g:/work_file/work/OpenAi/ai/claude/test_agent/ChatCompletion.py\" \"g:/work_file/work/OpenAi/ai/claude/test_agent/Completion.py\" \"g:/work_file/work/OpenAi/ai/claude/test_agent/cc.py\" \"g:/work_file/work/OpenAi/ai/glm/test.py\")",
+      "Bash(py -3 \"g:/work_file/work/OpenAi/ai/claude/python/CursorAgent.py\" --help)",
+      "Bash(git -C \"/g/work_file/work/OpenAi/.claude/worktrees/agent-a11ae1be\" status --short --untracked-files=normal)",
+      "Bash(git -C \"/g/work_file/work/OpenAi/.claude/worktrees/agent-a11ae1be\" branch -a)",
+      "Bash(git -C \"/g/work_file/work/OpenAi/.claude/worktrees/agent-a11ae1be\" tag --list)",
+      "Bash(git -C \"/g/work_file/work/OpenAi/.claude/worktrees/agent-a11ae1be\" log --all --full-history --name-status -- \"claude/agent_workbench_web/src/App.jsx\" \"claude/agent_workbench_web/src/styles.css\")",
+      "Bash(git -C \"/g/work_file/work/OpenAi\" log --all --full-history --name-status -- \"ai/claude/agent_workbench_web/src/App.jsx\" \"ai/claude/agent_workbench_web/src/styles.css\")",
+      "Bash(git -C \"/g/work_file/work/OpenAi\" rev-list --all -- \"ai/claude/agent_workbench_web/src/App.jsx\" \"ai/claude/agent_workbench_web/src/styles.css\")",
+      "Bash(git -C \"/g/work_file/work/OpenAi\" log --all --stat -- \"ai/claude/agent_workbench_web\")"
+    ]
+  }
+}
